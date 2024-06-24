@@ -1,9 +1,21 @@
 [submodule "scoop"]
 	path = scoop
 	url = https://github.com/BosEriko/scoop.git
-[submodule "vs"]
-	path = vs
-	url = https://github.com/BosEriko/vs.git
 [submodule "powertoys"]
 	path = powertoys
 	url = https://github.com/BosEriko/powertoys.git
+[submodule "glaze"]
+	path = glaze
+	url = https://github.com/BosEriko/glaze.git
+[submodule "vs"]
+	path = vs
+	url = https://github.com/BosEriko/vs.git
+[submodule "wsl"]
+	path = wsl
+	url = https://github.com/BosEriko/wsl.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/BosEriko/zsh.git
+[submodule "nix"]
+	path = nix
+	url = https://github.com/BosEriko/nix.git
