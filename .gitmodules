@@ -1,3 +1,6 @@
 [submodule "scoop"]
 	path = scoop
 	url = https://github.com/BosEriko/scoop.git
+[submodule "vs"]
+	path = vs
+	url = https://github.com/BosEriko/vs.git
