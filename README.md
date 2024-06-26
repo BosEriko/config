@@ -9,7 +9,7 @@ The config is divided into parts for modularity:
 4. [Editor & Terminal](https://github.com/BosEriko/vs.git) (vs) - Includes Visual Studio Code
 5. [Virtual Machine](https://github.com/BosEriko/wsl.git) (wsl) - Includes WSL
 6. [Distro](https://github.com/BosEriko/nix.git) (nix) - Includes NixOS Configuration, Flakes, Home Manager, etc.
-7. [Shell](https://github.com/BosEriko/zsh.git) (zsh) - Includes ZSH, Oh My ZSH and Git Configuration
+7. [Shell](https://github.com/BosEriko/fish.git) (fish) - Includes fish and Git Configuration
 
 _Note: Installation can be done in no order but ideally in order is better._
 

@@ -13,9 +13,9 @@
 [submodule "wsl"]
 	path = wsl
 	url = https://github.com/BosEriko/wsl.git
-[submodule "zsh"]
-	path = zsh
-	url = https://github.com/BosEriko/zsh.git
 [submodule "nix"]
 	path = nix
 	url = https://github.com/BosEriko/nix.git
+[submodule "fish"]
+	path = fish
+	url = https://github.com/BosEriko/fish.git
