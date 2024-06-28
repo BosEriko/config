@@ -17,3 +17,6 @@ To start you must first clone the repository. Run the command below on Ubuntu on
 ``` sh
 git clone --recurse-submodules https://github.com/BosEriko/config.git ~/config
 ```
+
+## Call to action
+If you want to share some ideas you can email me at codes@boseriko.com.
