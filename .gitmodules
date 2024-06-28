@@ -16,3 +16,6 @@
 [submodule "debian"]
 	path = debian
 	url = https://github.com/BosEriko/debian.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/BosEriko/zsh.git
