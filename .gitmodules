@@ -16,6 +16,3 @@
 [submodule "debian"]
 	path = debian
 	url = https://github.com/BosEriko/debian.git
-[submodule "fish"]
-	path = fish
-	url = https://github.com/BosEriko/fish.git
