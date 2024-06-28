@@ -13,6 +13,6 @@
 [submodule "wsl"]
 	path = wsl
 	url = https://github.com/BosEriko/wsl.git
-[submodule "debian"]
-	path = debian
-	url = https://github.com/BosEriko/debian.git
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/BosEriko/ubuntu.git
