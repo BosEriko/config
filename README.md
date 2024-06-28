@@ -8,8 +8,7 @@ The config is divided into parts for modularity:
 3. [Window Manager](https://github.com/BosEriko/glaze) (glaze) - Includes GlazeWM
 4. [Editor & Terminal](https://github.com/BosEriko/vs) (vs) - Includes Visual Studio Code
 5. [Virtual Machine](https://github.com/BosEriko/wsl) (wsl) - Includes WSL
-6. [Distro](https://github.com/BosEriko/debian) (debian) - Includes Debian Configuration
-7. [Shell](https://github.com/BosEriko/zsh) (zsh) - Includes Zsh, Oh My Zsh and Git Configuration
+6. [Distro](https://github.com/BosEriko/debian) (debian) - Includes Debian, Zsh and Git
 
 _Note: Installation can be done in no order but ideally in order is better._
 
