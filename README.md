@@ -15,8 +15,11 @@ _Note: Installation can be done in no order but ideally in order is better._
 ## Clone the repository
 To start you must first clone the repository. Run the command below on Ubuntu on WSL to clone the repository.
 ``` sh
-git clone --recurse-submodules https://github.com/BosEriko/config.git ~/config
+git clone --recurse-submodules https://github.com/BosEriko/config.git
 ```
+
+## Equipment
+I also have my [list of equipments](https://github.com/BosEriko/equipment) if you're interested.
 
 ## Call to action
 If you want to share some ideas you can email me at codes@boseriko.com.
