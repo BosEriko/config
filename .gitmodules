@@ -4,6 +4,9 @@
 [submodule "powertoys"]
 	path = powertoys
 	url = https://github.com/BosEriko/powertoys.git
+[submodule "karabiner"]
+	path = karabiner
+	url = https://github.com/BosEriko/karabiner.git
 [submodule "glaze"]
 	path = glaze
 	url = https://github.com/BosEriko/glaze.git
