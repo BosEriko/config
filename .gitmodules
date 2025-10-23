@@ -1,21 +1,24 @@
-[submodule "scoop"]
-	path = scoop
-	url = https://github.com/BosEriko/scoop.git
-[submodule "powertoys"]
-	path = powertoys
-	url = https://github.com/BosEriko/powertoys.git
-[submodule "karabiner"]
-	path = karabiner
-	url = https://github.com/BosEriko/karabiner.git
+[submodule "brew"]
+	path = brew
+	url = https://github.com/BosEriko/brew.git
 [submodule "glaze"]
 	path = glaze
 	url = https://github.com/BosEriko/glaze.git
+[submodule "karabiner"]
+	path = karabiner
+	url = https://github.com/BosEriko/karabiner.git
+[submodule "powertoys"]
+	path = powertoys
+	url = https://github.com/BosEriko/powertoys.git
+[submodule "scoop"]
+	path = scoop
+	url = https://github.com/BosEriko/scoop.git
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/BosEriko/ubuntu.git
 [submodule "vs"]
 	path = vs
 	url = https://github.com/BosEriko/vs.git
 [submodule "wsl"]
 	path = wsl
 	url = https://github.com/BosEriko/wsl.git
-[submodule "ubuntu"]
-	path = ubuntu
-	url = https://github.com/BosEriko/ubuntu.git
