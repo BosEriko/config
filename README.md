@@ -12,8 +12,8 @@ The config is divided into parts for modularity:
 
 _Note: Installation can be done in no order but ideally in order is better._
 
-## Clone the repository
-To start you must first clone the repository. Run the command below on Ubuntu on WSL to clone the repository.
+## Versioning Repository
+You don't need to clone this repository to start but to version them all properly it's a good thing to clone it.
 ``` sh
 git clone --recurse-submodules https://github.com/BosEriko/config.git
 ```
