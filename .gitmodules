@@ -22,3 +22,6 @@
 [submodule "wsl"]
 	path = wsl
 	url = https://github.com/BosEriko/wsl.git
+[submodule "nix"]
+	path = nix
+	url = https://github.com/BosEriko/nix.git
