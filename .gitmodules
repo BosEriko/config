@@ -7,9 +7,6 @@
 [submodule "karabiner"]
 	path = karabiner
 	url = https://github.com/BosEriko/karabiner.git
-[submodule "nix"]
-	path = nix
-	url = https://github.com/BosEriko/nix.git
 [submodule "powertoys"]
 	path = powertoys
 	url = https://github.com/BosEriko/powertoys.git
