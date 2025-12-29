@@ -3,7 +3,9 @@ This is my personal config for Windows and OSX. Feel free to use it or fork it.
 
 ## Installation Scripts
 The config is divided into parts for modularity:
-1. Package Manager - [Scoop](https://github.com/BosEriko/scoop) for Windows and [Brew](https://github.com/BosEriko/brew) for OSX.
+1. Package Manager:
+- Windows: [Scoop](https://github.com/BosEriko/scoop)
+- MacOS: [Brew](https://github.com/BosEriko/brew)
 2. Hotkeys - [PowerToys](https://github.com/BosEriko/powertoys) for Windows and [Karabiner](https://github.com/BosEriko/karabiner) for OSX.
 3. Window Manager - [GlazeWM](https://github.com/BosEriko/glaze) for Windows.
 4. Editor & Terminal - [Visual Studio Code](https://github.com/BosEriko/vs) for Windows.
