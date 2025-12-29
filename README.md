@@ -7,11 +7,17 @@ The config is divided into parts for modularity:
     - Windows: [Scoop](https://github.com/BosEriko/scoop)
     - macOS: [Brew](https://github.com/BosEriko/brew)
     - SteamOS: [Nix](https://github.com/BosEriko/nix)
-2. Hotkeys - [PowerToys](https://github.com/BosEriko/powertoys) for Windows and [Karabiner](https://github.com/BosEriko/karabiner) for OSX.
-3. Window Manager - [GlazeWM](https://github.com/BosEriko/glaze) for Windows.
-4. Editor & Terminal - [Visual Studio Code](https://github.com/BosEriko/vs) for Windows.
-5. Virtual Machine - [WSL](https://github.com/BosEriko/wsl) for Windows.
-6. Distro - [Ubuntu](https://github.com/BosEriko/ubuntu) for Windows.
+2. Hotkeys:
+    - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
+    - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
+3. Window Manager:
+    - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
+4. Editor & Terminal:
+    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
+5. Virtual Machine:
+    - Windows: [WSL](https://github.com/BosEriko/wsl)
+6. Distro:
+    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu)
 
 _Note: Installation can be done in no order but ideally in order is better._
 
