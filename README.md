@@ -27,6 +27,9 @@ You don't need to clone this repository to start but to version them all properl
 git clone --recurse-submodules https://github.com/BosEriko/config.git
 ```
 
+## Hotkey
+You can check out the hotkeys [here](https://github.com/boseriko/hotkey).
+
 ## Equipment
 I also have my [list of equipments](https://github.com/BosEriko/equipment) if you're interested.
 
