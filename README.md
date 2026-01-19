@@ -15,6 +15,7 @@ The config is divided into parts for modularity:
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
 4. Editor & Terminal:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs) with [WSL](https://github.com/BosEriko/wsl)
+    - macOS: [Neovim](https://github.com/boseriko/nvim)
 5. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu)
 
