@@ -21,7 +21,7 @@ The config is divided into parts for modularity:
     - SteamOS: N/A
 5. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
-    - macOS: N/A
+    - macOS: [macOS](https://github.com/boseriko/mac)
     - SteamOS: N/A
 
 _Note: Installation can be done in no order but ideally in order is better._
