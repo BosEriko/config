@@ -10,14 +10,19 @@ The config is divided into parts for modularity:
 2. Hotkeys:
     - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
     - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
+    - SteamOS: N/A
 3. Window Manager:
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
+    - SteamOS: N/A
 4. Editor & Terminal:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - macOS: [Neovim](https://github.com/boseriko/nvim)
+    - SteamOS: N/A
 5. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
+    - macOS: N/A
+    - SteamOS: N/A
 
 _Note: Installation can be done in no order but ideally in order is better._
 
