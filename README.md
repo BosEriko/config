@@ -13,10 +13,8 @@ The config is divided into parts for modularity:
 3. Window Manager:
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
 4. Editor & Terminal:
-    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-5. Virtual Machine:
-    - Windows: [WSL](https://github.com/BosEriko/wsl)
-6. Distro:
+    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs) with [WSL](https://github.com/BosEriko/wsl)
+5. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu)
 
 _Note: Installation can be done in no order but ideally in order is better._
