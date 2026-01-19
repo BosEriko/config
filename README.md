@@ -12,6 +12,7 @@ The config is divided into parts for modularity:
     - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
 3. Window Manager:
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
+    - macOS: [Yabai](https://github.com/BosEriko/yabai)
 4. Editor & Terminal:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs) with [WSL](https://github.com/BosEriko/wsl)
 5. Distro:
