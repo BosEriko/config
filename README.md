@@ -14,10 +14,10 @@ The config is divided into parts for modularity:
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
 4. Editor & Terminal:
-    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs) with [WSL](https://github.com/BosEriko/wsl)
+    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - macOS: [Neovim](https://github.com/boseriko/nvim)
 5. Distro:
-    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu)
+    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
 
 _Note: Installation can be done in no order but ideally in order is better._
 
