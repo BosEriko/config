@@ -17,7 +17,7 @@ The config is divided into parts for modularity:
     - SteamOS: N/A
 4. Editor & Terminal:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - macOS: [Neovim](https://github.com/boseriko/nvim)
+    - macOS: [Zed](https://github.com/boseriko/zed) and [Ghostty](https://github.com/boseriko/ghostty)
     - SteamOS: N/A
 5. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
