@@ -15,11 +15,15 @@ The config is divided into parts for modularity:
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
     - SteamOS: N/A
-4. Editor & Terminal:
+4. Editor:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - macOS: [Zed](https://github.com/boseriko/zed) and [Ghostty](https://github.com/boseriko/ghostty)
+    - macOS: [Zed](https://github.com/boseriko/zed)
     - SteamOS: N/A
-5. Distro:
+5. Terminal:
+    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
+    - macOS: [Ghostty](https://github.com/boseriko/ghostty)
+    - SteamOS: N/A
+6. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
     - macOS: [macOS](https://github.com/boseriko/mac)
     - SteamOS: N/A
