@@ -31,10 +31,6 @@ The config is divided into parts for modularity:
     - macOS: [Zed](https://github.com/boseriko/zed)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - SteamOS: N/A
-1. AI:
-    - macOS: [Opencode](https://github.com/boseriko/opencode)
-    - Windows: N/A
-    - SteamOS: N/A
 
 _Note: Installation can be done in no order but ideally in order is better._
 
