@@ -32,7 +32,10 @@ The config is divided into parts for modularity:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - SteamOS: N/A
 
-_Note: Installation can be done in no order but ideally in order is better. Also, if done on macOS please update the system to the latest before installing anything._
+_Note: Installation can be done in no order but ideally in order is better._
+
+## macOS Caveat
+If done on macOS please update the system to the latest before installing anything. Updating macOS version after installing everything can break the setup.
 
 ## Versioning Repository
 You don't need to clone this repository to start but to version them all properly it's a good thing to clone it.
