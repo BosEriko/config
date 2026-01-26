@@ -7,29 +7,33 @@ The config is divided into parts for modularity:
     - Windows: [Scoop](https://github.com/BosEriko/scoop)
     - macOS: [Brew](https://github.com/BosEriko/brew)
     - SteamOS: [Nix](https://github.com/BosEriko/nix)
-2. Hotkeys:
+1. Hotkeys:
     - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
     - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
     - SteamOS: N/A
-3. Window Manager:
+1. Window Manager:
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
     - SteamOS: N/A
-4. Editor:
-    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - macOS: [Zed](https://github.com/boseriko/zed)
-    - SteamOS: N/A
-5. Terminal:
-    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - macOS: [Ghostty](https://github.com/boseriko/ghostty)
-    - SteamOS: N/A
-6. Distro:
+1. Distro:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
     - macOS: [macOS](https://github.com/boseriko/mac)
     - SteamOS: N/A
-7. Browser:
+1. Browser:
     - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
     - macOS: [Brave](https://github.com/boseriko/brave)
+    - SteamOS: N/A
+1. Terminal:
+    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
+    - macOS: [Ghostty](https://github.com/boseriko/ghostty)
+    - SteamOS: N/A
+1. Editor:
+    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
+    - macOS: [Zed](https://github.com/boseriko/zed)
+    - SteamOS: N/A
+1. AI:
+    - Windows: N/A
+    - macOS: [Opencode](https://github.com/boseriko/opencode)
     - SteamOS: N/A
 
 _Note: Installation can be done in no order but ideally in order is better._
