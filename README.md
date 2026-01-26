@@ -27,6 +27,10 @@ The config is divided into parts for modularity:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
     - macOS: [macOS](https://github.com/boseriko/mac)
     - SteamOS: N/A
+7. Browser:
+    - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
+    - macOS: [Brave](https://github.com/boseriko/brave)
+    - SteamOS: N/A
 
 _Note: Installation can be done in no order but ideally in order is better._
 
