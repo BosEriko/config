@@ -20,7 +20,7 @@ The config is divided into parts for modularity:
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
     - SteamOS: N/A
 1. Browser:
-    - macOS: [Brave](https://github.com/boseriko/brave)
+    - macOS: [Zen](https://github.com/boseriko/zen)
     - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
     - SteamOS: N/A
 1. Terminal:
