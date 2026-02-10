@@ -7,11 +7,11 @@ The config is divided into parts for modularity:
     - macOS: [Brew](https://github.com/BosEriko/brew)
     - Windows: [Scoop](https://github.com/BosEriko/scoop)
     - SteamOS: [Nix](https://github.com/BosEriko/nix)
-1. Hotkeys:
+1. Keybinds ([Hotkeys](https://github.com/boseriko/hotkey/KEYBINDS.md)):
     - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
     - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
     - SteamOS: N/A
-1. Window Manager:
+1. Window Manager ([Hotkeys](https://github.com/boseriko/hotkey/WINDOW_MANAGER.md)):
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - SteamOS: [Sway](https://github.com/BosEriko/sway)
@@ -19,7 +19,7 @@ The config is divided into parts for modularity:
     - macOS: [macOS](https://github.com/boseriko/mac)
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
     - SteamOS: N/A
-1. Browser:
+1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/BROWSER.md)):
     - macOS: [Zen](https://github.com/boseriko/zen)
     - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
     - SteamOS: N/A
@@ -27,7 +27,7 @@ The config is divided into parts for modularity:
     - macOS: [Ghostty](https://github.com/boseriko/ghostty)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - SteamOS: N/A
-1. Editor:
+1. Editor ([Hotkeys](https://github.com/boseriko/hotkey/EDITOR.md)):
     - macOS: [Zed](https://github.com/boseriko/zed)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - SteamOS: N/A
@@ -42,9 +42,6 @@ You don't need to clone this repository to start but to version them all properl
 ``` sh
 git clone --recurse-submodules https://github.com/BosEriko/config.git
 ```
-
-## Hotkey
-You can check out the hotkeys [here](https://github.com/boseriko/hotkey).
 
 ## Equipment
 I also have my [list of equipments](https://github.com/BosEriko/equipment) if you're interested.
