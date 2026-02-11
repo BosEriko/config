@@ -22,7 +22,7 @@ The config is divided into parts for modularity:
 1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
     - macOS: [Zen](https://github.com/boseriko/zen)
     - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
-    - SteamOS: N/A
+    - SteamOS: [Brave](https://github.com/BosEriko/brave)
 1. Terminal:
     - macOS: [Ghostty](https://github.com/boseriko/ghostty)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
