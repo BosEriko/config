@@ -10,7 +10,7 @@ The config is divided into parts for modularity:
 1. Keybinds ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/KEYBINDS.md)):
     - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
     - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
-    - SteamOS: N/A
+    - SteamOS: [kmodmap](https://github.com/BosEriko/kmodmap)
 1. Window Manager ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/WINDOW_MANAGER.md)):
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
