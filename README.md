@@ -32,7 +32,7 @@ The config is divided into parts for modularity:
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - SteamOS: [VSCodium](https://github.com/BosEriko/codium)
 
-_Note: Installation must be done in order.
+_Note: Installation must be done in order._
 
 ## macOS Caveat
 If done on macOS please update the system to the latest before installing anything. Updating the macOS version after installing everything can break the setup.
