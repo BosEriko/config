@@ -18,7 +18,7 @@ The config is divided into parts for modularity:
 1. Distro:
     - macOS: [macOS](https://github.com/boseriko/mac)
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
-    - SteamOS: N/A
+    - SteamOS: [SteamOS](https://github.com/boseriko/steam)
 1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
     - macOS: [Zen](https://github.com/boseriko/zen)
     - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
@@ -26,11 +26,11 @@ The config is divided into parts for modularity:
 1. Terminal:
     - macOS: [Ghostty](https://github.com/boseriko/ghostty)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - SteamOS: N/A
+    - SteamOS: [Foot](https://github.com/BosEriko/foot)
 1. Editor ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/EDITOR.md)):
     - macOS: [Zed](https://github.com/boseriko/zed)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - SteamOS: N/A
+    - SteamOS: [VSCodium](https://github.com/BosEriko/codium)
 
 _Note: Installation can be done in no order but ideally in order is better._
 
