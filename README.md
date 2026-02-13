@@ -1,5 +1,5 @@
 # Config
-This is my personal config. Feel free to use it or fork it.
+This is my personal config.
 
 ## Installation Scripts
 The config is divided into parts for modularity:
@@ -37,14 +37,8 @@ _Note: Installation must be done in order._
 ## macOS Caveat
 If done on macOS please update the system to the latest before installing anything. Updating the macOS version after installing everything can break the setup.
 
-## Versioning Repository
-You don't need to clone this repository to start but to version them all properly it's a good thing to clone it.
-``` sh
-git clone --recurse-submodules https://github.com/BosEriko/config.git
-```
-
 ## Equipment
 I also have my [list of equipments](https://github.com/BosEriko/equipment) if you're interested.
 
 ## Call to action
-If you want to share some ideas you can email me at codes@boseriko.com.
+If you want to share some ideas you can email me at config@boseriko.com.
