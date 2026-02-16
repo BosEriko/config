@@ -27,10 +27,10 @@ The config is divided into parts for modularity:
     - macOS: [Ghostty](https://github.com/boseriko/ghostty)
     - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
     - SteamOS: [Foot](https://github.com/BosEriko/foot)
-1. Editor ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/EDITOR.md)):
-    - macOS: [Zed](https://github.com/boseriko/zed)
-    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
-    - SteamOS: [VSCodium](https://github.com/BosEriko/codium)
+1. Editor ([Hotkeys](http://www.lazyvim.org/keymaps)):
+    - macOS: [LazyVim](http://www.lazyvim.org/installation)
+    - Windows: [LazyVim](http://www.lazyvim.org/installation)
+    - SteamOS: [LazyVim](http://www.lazyvim.org/installation)
 
 _Note: Installation must be done in order._
 
