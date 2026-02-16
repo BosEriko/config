@@ -25,7 +25,7 @@ The config is divided into parts for modularity:
     - SteamOS: [Brave](https://github.com/BosEriko/brave)
 1. Terminal:
     - macOS: [Ghostty](https://github.com/boseriko/ghostty)
-    - Windows: [Visual Studio Code](https://github.com/BosEriko/vs)
+    - Windows: ???
     - SteamOS: [Foot](https://github.com/BosEriko/foot)
 1. Editor ([Hotkeys](http://www.lazyvim.org/keymaps)):
     - macOS: [LazyVim](http://www.lazyvim.org/installation)
