@@ -18,7 +18,7 @@ The config is divided into parts for modularity:
 1. Shell:
     - macOS: [macOS](https://github.com/boseriko/mac)
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
-    - SteamOS: [SteamOS](https://github.com/boseriko/steam)
+    - SteamOS: [zsh](https://github.com/boseriko/zsh)
 1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
     - macOS: [Zen](https://github.com/boseriko/zen)
     - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
