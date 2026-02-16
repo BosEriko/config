@@ -15,7 +15,7 @@ The config is divided into parts for modularity:
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - SteamOS: [Sway](https://github.com/BosEriko/sway)
-1. Distro:
+1. Shell:
     - macOS: [macOS](https://github.com/boseriko/mac)
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) inside [WSL](https://github.com/BosEriko/wsl)
     - SteamOS: [SteamOS](https://github.com/boseriko/steam)
