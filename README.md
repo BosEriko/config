@@ -33,8 +33,5 @@ _Note: Installation must be done in order._
 ## macOS Caveat
 If done on macOS please update the system to the latest before installing anything. Updating the macOS version after installing everything can break the setup.
 
-## Equipment
-I also have my [list of equipments](https://github.com/BosEriko/equipment) if you're interested.
-
 ## Call to action
 If you want to share some ideas you can email me at config@boseriko.com.
