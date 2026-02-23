@@ -5,28 +5,28 @@ This is my personal config.
 The config is divided into parts for modularity:
 1. Package Manager:
     - macOS: [Brew](https://github.com/BosEriko/brew)
-    - Windows: [Scoop](https://github.com/BosEriko/scoop)
     - SteamOS: [Nix](https://github.com/BosEriko/nix)
+    - Windows: [Scoop](https://github.com/BosEriko/scoop)
 1. Keybinds ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/KEYBINDS.md)):
     - macOS: [Karabiner](https://github.com/BosEriko/karabiner)
-    - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
     - SteamOS: [kmonad](https://github.com/BosEriko/kmonad)
+    - Windows: [PowerToys](https://github.com/BosEriko/powertoys)
 1. Window Manager ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/WINDOW_MANAGER.md)):
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
-    - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - SteamOS: [Sway](https://github.com/BosEriko/sway)
+    - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
 1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
     - macOS: [Zen](https://github.com/boseriko/zen)
-    - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
     - SteamOS: [Brave](https://github.com/BosEriko/brave)
+    - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
 1. Shell ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/SHELL.md)):
     - macOS: [macOS](https://github.com/boseriko/mac) via [Ghostty](https://github.com/boseriko/ghostty)
-    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) ([WSL](https://github.com/BosEriko/wsl)) via [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare)
     - SteamOS: [Zsh](https://github.com/boseriko/zsh) via [Foot](https://github.com/BosEriko/foot)
+    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) ([WSL](https://github.com/BosEriko/wsl)) via [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare)
 1. Editor ([Hotkeys](http://www.lazyvim.org/keymaps)):
     - macOS: [LazyVim](http://www.lazyvim.org/installation)
-    - Windows: [LazyVim](http://www.lazyvim.org/installation)
     - SteamOS: [LazyVim](http://www.lazyvim.org/installation)
+    - Windows: [LazyVim](http://www.lazyvim.org/installation)
 
 _Note: Installation must be done in order._
 
