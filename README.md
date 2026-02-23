@@ -23,10 +23,6 @@ The config is divided into parts for modularity:
     - macOS: [macOS](https://github.com/boseriko/mac) via [Ghostty](https://github.com/boseriko/ghostty)
     - SteamOS: [Zsh](https://github.com/boseriko/zsh) via [Foot](https://github.com/BosEriko/foot)
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) ([WSL](https://github.com/BosEriko/wsl)) via [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare)
-1. Editor ([Hotkeys](http://www.lazyvim.org/keymaps)):
-    - macOS: [LazyVim](http://www.lazyvim.org/installation)
-    - SteamOS: [LazyVim](http://www.lazyvim.org/installation)
-    - Windows: [LazyVim](http://www.lazyvim.org/installation)
 
 _Note: Installation must be done in order._
 
