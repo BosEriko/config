@@ -16,9 +16,9 @@ The config is divided into parts for modularity:
     - SteamOS: [Sway](https://github.com/BosEriko/sway)
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
 1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
-    - macOS: [Brave](https://github.com/boseriko/brave/MAC.md)
-    - SteamOS: [Brave](https://github.com/BosEriko/brave/STEAM.md)
-    - Windows: [Brave](https://github.com/BosEriko/brave/WINDOWS.md)
+    - macOS: [Brave](https://github.com/BosEriko/brave/blob/main/MAC.md)
+    - SteamOS: [Brave](https://github.com/BosEriko/brave/blob/main/STEAM.md)
+    - Windows: [Brave](https://github.com/BosEriko/brave/blob/main/WINDOWS.md)
 1. Shell ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/SHELL.md)):
     - macOS: [macOS](https://github.com/boseriko/mac) via [Ghostty](https://github.com/boseriko/ghostty)
     - SteamOS: [Zsh](https://github.com/boseriko/zsh) via [Foot](https://github.com/BosEriko/foot)
