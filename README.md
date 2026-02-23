@@ -15,6 +15,10 @@ The config is divided into parts for modularity:
     - macOS: [Yabai](https://github.com/BosEriko/yabai)
     - Windows: [GlazeWM](https://github.com/BosEriko/glaze)
     - SteamOS: [Sway](https://github.com/BosEriko/sway)
+1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
+    - macOS: [Zen](https://github.com/boseriko/zen)
+    - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
+    - SteamOS: [Brave](https://github.com/BosEriko/brave)
 1. Shell ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/SHELL.md)):
     - macOS: [macOS](https://github.com/boseriko/mac) via [Ghostty](https://github.com/boseriko/ghostty)
     - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) via [WSL](https://github.com/BosEriko/wsl) and [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare)
@@ -23,10 +27,6 @@ The config is divided into parts for modularity:
     - macOS: [LazyVim](http://www.lazyvim.org/installation)
     - Windows: [LazyVim](http://www.lazyvim.org/installation)
     - SteamOS: [LazyVim](http://www.lazyvim.org/installation)
-1. Browser ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/BROWSER.md)):
-    - macOS: [Zen](https://github.com/boseriko/zen)
-    - Windows: [Vivaldi](https://github.com/BosEriko/vivaldi)
-    - SteamOS: [Brave](https://github.com/BosEriko/brave)
 
 _Note: Installation must be done in order._
 
