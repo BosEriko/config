@@ -21,7 +21,7 @@ The config is divided into parts for modularity:
     - SteamOS: [Brave](https://github.com/BosEriko/brave)
 1. Shell ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/SHELL.md)):
     - macOS: [macOS](https://github.com/boseriko/mac) via [Ghostty](https://github.com/boseriko/ghostty)
-    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) via [WSL](https://github.com/BosEriko/wsl) and [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare)
+    - Windows: [Ubuntu](https://github.com/BosEriko/ubuntu) ([WSL](https://github.com/BosEriko/wsl)) and [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare)
     - SteamOS: [Zsh](https://github.com/boseriko/zsh) via [Foot](https://github.com/BosEriko/foot)
 1. Editor ([Hotkeys](http://www.lazyvim.org/keymaps)):
     - macOS: [LazyVim](http://www.lazyvim.org/installation)
