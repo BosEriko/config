@@ -20,7 +20,7 @@ The config is divided into parts for modularity:
     - SteamOS: [Brave](https://github.com/BosEriko/brave/blob/main/STEAM.md)
     - Windows: [Brave](https://github.com/BosEriko/brave/blob/main/WINDOWS.md)
 1. Terminal ([Hotkeys](https://github.com/boseriko/hotkey/blob/main/TERMINAL.md)):
-    - macOS: [macOS](https://github.com/boseriko/mac) via [Ghostty](https://github.com/boseriko/ghostty)
+    - macOS: [Zsh](https://github.com/boseriko/zsh) via [Ghostty](https://github.com/boseriko/ghostty)
     - SteamOS: [Zsh](https://github.com/boseriko/zsh) via [Foot](https://github.com/BosEriko/foot)
     - Windows: [Zsh](https://github.com/boseriko/zsh) via [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?ocid=webpdpshare) ([Ubuntu](https://github.com/BosEriko/ubuntu) on [WSL](https://github.com/BosEriko/wsl))
 
