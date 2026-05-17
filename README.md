@@ -29,5 +29,8 @@ _Note: Installation must be done in order._
 ## macOS Caveat
 If done on macOS please update the system to the latest before installing anything. Updating the macOS version after installing everything can break the setup.
 
+## Android Config
+My Android phone configuration is also available [here](https://github.com/boseriko/android).
+
 ## Call to action
 If you want to share some ideas you can email me at config@boseriko.com.
